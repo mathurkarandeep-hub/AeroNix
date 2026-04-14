@@ -10,6 +10,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 </div>
+<img width="1536" height="1024" alt="welcome" src="https://github.com/user-attachments/assets/642ceb9c-6d0b-4c3f-8a3f-8fca766e6f14" />
 
 ---
 
