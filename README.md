@@ -152,7 +152,7 @@ AeroNix/
 **Karandeep Mathur**
 - GitHub: [@mathurkarandeep-hub](https://github.com/mathurkarandeep-hub)
 - Email: mathurkarandeep@gmail.com
-- LinkedIn: _(add your LinkedIn URL)_
+- LinkedIn: _(https://www.linkedin.com/in/karandeepmathur/)_
 
 > Built with 17 years of Linux experience and a lot of late nights.
 
