@@ -20,6 +20,11 @@ AeroNix is a custom Linux distribution built from scratch on top of Ubuntu 24.04
 
 > "Built for simplicity. Powered by you."
 
+## ⬇️ Download AeroNix v3.4.26 Beta ISO
+
+**[Click here to download AeroNix-3.4.26-beta-live-x86_64.iso]( aeronix-3.4.26-beta-live-x86_64 : Free Download, Borrow, and Streaming : Internet Archive)**
+
+> ISO size: 3.2 GB | Live session only | Permanent installer coming soon
 ---
 
 ## Screenshots
