@@ -3,11 +3,10 @@
 <h1>AeroNix</h1>
 <p><strong>A lightweight, custom Linux distribution built for simplicity and performance.</strong></p>
 
-![Version](https://img.shields.io/badge/version-3.4.26%20LTS-blue)
-![Base](https://img.shields.io/badge/base-Ubuntu%2024.04%20LTS-orange)
-![Kernel](https://img.shields.io/badge/kernel-6.17.0--14--generic-green)
-![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Version](https://img.shields.io/badge/Version-3.4.26--beta-blue)
+![Base](https://img.shields.io/badge/Base-Ubuntu%2024.04-orange)
+![License](https://img.shields.io/badge/License-GPL%20v3-green)
+![Status](https://img.shields.io/badge/Status-Beta-yellow)
 
 </div>
 <img width="1536" height="1024" alt="welcome" src="https://github.com/user-attachments/assets/642ceb9c-6d0b-4c3f-8a3f-8fca766e6f14" />
@@ -37,7 +36,7 @@ AeroNix is a custom Linux distribution built from scratch on top of Ubuntu 24.04
 - Pre-configured **SSH server** out of the box
 - Custom **GRUB bootloader** configuration
 - Full developer attribution baked into OS identity
-- Bootable **ISO** for live session or installation
+- Bootable ISO for live session testing
 
 ---
 
@@ -56,10 +55,12 @@ AeroNix is a custom Linux distribution built from scratch on top of Ubuntu 24.04
 ## Download
 
 ## ⬇️ Download AeroNix v3.4.26 Beta ISO
-
-**[Click here to download AeroNix-3.4.26-beta-live-x86_64.iso]( aeronix-3.4.26-beta-live-x86_64 : Free Download, Borrow, and Streaming : Internet Archive) https://archive.org/details/aeronix-3.4.26-beta-live-x86_64**
+[⬇️ Click here to download AeroNix v3.4.26 Beta ISO](https://archive.org/details/aeronix-3.4.26-beta-live-x86_64)
 
 > ISO size: 3.2 GB | Live session only | Permanent installer coming soon
+> ⚠️ **Beta Notice:** This is a live session only release. 
+> Permanent installation is not yet supported. 
+> Please report bugs via [GitHub Issues](https://github.com/mathurkarandeep-hub/AeroNix/issues).
 ---
 
 ## Getting Started
@@ -73,8 +74,7 @@ AeroNix is a custom Linux distribution built from scratch on top of Ubuntu 24.04
 ### Create bootable USB (Linux)
 
 ```bash
-sudo dd if=aeronix-3.4.26-final.iso of=/dev/sdX bs=4M status=progress
-sync
+sudo dd if=aeronix-3.4.26-beta-live-x86_64.iso of=/dev/sdX bs=4M status=progress
 ```
 
 ### Run in VirtualBox
